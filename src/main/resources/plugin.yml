@@ -1,0 +1,9 @@
+name: FamilyBounty
+version: '${project.version}'
+main: fr.zeyx.familybounty.FamilyBounty
+api-version: 1.17
+authors: [ZeyX]
+description: Plugin qui ajoute un système de Bounty
+commands:
+  bounty:
+    description: Commande principale pour mettre un bounty

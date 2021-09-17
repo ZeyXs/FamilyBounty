@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FamilyBounty:jar">
+    <output-path>$PROJECT_DIR$/../../Serveur Test 1.17.1/plugins</output-path>
+    <root id="archive" name="FamilyBounty.jar">
+      <element id="module-output" name="FamilyBounty" />
+    </root>
+  </artifact>
+</component>
